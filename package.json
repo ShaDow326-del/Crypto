@@ -1,5 +1,5 @@
 {
-  "name": "my-crypto-dashboard",
+  "name": "my-crypto-superapp",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -11,7 +11,8 @@
     "ethers": "^6.7.0",
     "next": "13.4.8",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "clsx": "^1.2.1"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.14",
